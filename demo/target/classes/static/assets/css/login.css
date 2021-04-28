@@ -1,0 +1,113 @@
+* {
+    margin: 0;
+    background-color: #e5e5e5;
+    overflow-x: hidden;
+}
+
+#content{
+    padding: 10% 30% 10% 30%;
+}
+
+#valUser,
+#valMail,
+#verPass,
+#valPass {
+    font-family: Roboto;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0.005em;
+    text-align: left;
+    color: transparent;
+}
+
+#text {
+    padding-bottom: 30px;
+    color: #1ab649;
+}
+
+::placeholder {
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.005em;
+    text-align: left;
+
+}
+
+#Kepala {
+    font-family: Roboto;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 46px;
+    letter-spacing: 0.005em;
+    text-align: left;
+
+}
+
+
+#inputUser,
+#inputMail,
+#inputPassword,
+#validationPassword {
+    margin-bottom: 60px;
+    margin-top: -10px;
+    background-color: #fbfbfb;
+    border-radius: 15px;
+}
+
+#toggle_pwd1,
+#toggle_pwd2,
+#gembok,
+#orang,
+#mail {
+    background-color: transparent;
+}
+
+.form-control {
+    background-color: #fbfbfb;
+}
+
+.form-control,
+#btnSubmited {
+    height: 55px;
+    width: 445px;
+    width: 100%;
+    left: 0px;
+    top: 0px;
+}
+
+
+
+#btnSubmited {
+    margin-top: 30px;
+    border-radius: 15px;
+    border: none;
+    background-color: #1ab649;
+}
+
+.form-control:focus {
+    border: none;
+    outline: none;
+    box-shadow: none;
+}
+
+a {
+    text-decoration: none;
+    color: #1ab649;
+}
+
+#sudah {
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.005em;
+    text-align: center;
+    margin-top: 20px;
+}

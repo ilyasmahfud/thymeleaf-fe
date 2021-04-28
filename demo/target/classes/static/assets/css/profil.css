@@ -1,0 +1,23 @@
+body{
+    margin-bottom: 50px;
+}
+
+.navbar{
+    padding: 20px 200px 20px 200px;
+}
+
+#navi{
+    padding-right: 50px;
+}
+
+.goToProfil{
+    margin-right: 10px;
+}
+
+a{
+    text-decoration: none;
+}
+
+img{
+    border-radius: 100%;
+}

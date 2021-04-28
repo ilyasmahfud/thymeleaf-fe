@@ -1,0 +1,45 @@
+
+#header{
+    text-align: center;
+    background-color: cadetblue;
+    color: white;
+}
+
+
+.navbar{
+    padding: 20px 200px 20px 200px;
+}
+
+#navi{
+    padding-right: 50px;
+}
+
+.goToProfil{
+    margin-right: 10px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.fotoProduct{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.col-xl-8{
+    padding-top: 50px;
+    text-align: justify;
+}
+
+.w3-button{
+    width: 200px;
+    margin: 20px 50px 20px 10px;
+}
+
+button{
+    border-radius: 30px;
+}
